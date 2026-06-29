@@ -1,0 +1,87 @@
+canonical_identifier: bkk:krp/KR3el017/v1
+canonical_location: https://kanripo.org/bkk/KR3el017/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷科方書
+  identifiers:
+    krp: KR3el017
+  tags:
+    kr-categories: KR3el
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3el017.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3el017_000.yaml, hash: 'sha256:b84e14337582b6f26e2e2108383f5c1276a0aa7c2133d00eef55ba3ef400cb5f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3el017_000.markers.yaml, hash: 'sha256:2e386643015557a98430f0559ef662d453e8911bd044e95d6e71f16fecdca0ff'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3el017_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 61
+  label: 斷死證秘訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el017_jc_000-d3.h1s1
+    span:
+    - body
+    - 61
+    - 236
+  label: 秘受不治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el017_jc_000-d4.h1s1
+    span:
+    - body
+    - 236
+    - 2579
+  label: 受傷治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el017_jc_000-d5.h1s1
+    span:
+    - body
+    - 2579
+    - 3940
+  label: 通用方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el017_jc_000-d6.h1s1
+    span:
+    - body
+    - 3940
+    - 7251
+  label: 秘傳方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el017_jc_000-d7.h1s1
+    span:
+    - body
+    - 7251
+    - 8141
+  label: 附錄驗方四則
+  type: section
+  level: 1
+hash: sha256:0eb6da9df82d88e601d51350f081d16df021b211aa8653827e29813459c1129b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

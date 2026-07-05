@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3el017_000.yaml, hash: 'sha256:b84e14337582b6f26e2e2108383f5c1276a0aa7c2133d00eef55ba3ef400cb5f'}
+  - {seq: 0, filename: KR3el017_000.yaml, hash: 'sha256:a7836bd49ae6744fa297503edbc22582fc8ee7289580e65a042c3f169310ff6a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el017_000.markers.yaml, hash: 'sha256:2e386643015557a98430f0559ef662d453e8911bd044e95d6e71f16fecdca0ff'}
+  - {seq: 0, role: markers, filename: assets/KR3el017_000.markers.yaml, hash: 'sha256:a03ab0af9194fadaebf76b0cf10a584636b6f181b144deb9618e56eb2032f328'}
 table_of_contents:
 - ref:
     seq: 0
@@ -81,7 +81,4 @@ table_of_contents:
   label: 附錄驗方四則
   type: section
   level: 1
-hash: sha256:0eb6da9df82d88e601d51350f081d16df021b211aa8653827e29813459c1129b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:656730be70ac31217c7f0a7580e2e77a5f694032f54567513608673bd49a68b8

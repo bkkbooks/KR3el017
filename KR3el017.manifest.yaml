@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3el017/v1
 canonical_location: https://kanripo.org/bkk/KR3el017/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傷科方書
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3el017_000.yaml, hash: 'sha256:a7836bd49ae6744fa297503edbc22582fc8ee7289580e65a042c3f169310ff6a'}
+  - {seq: 0, filename: KR3el017_000.yaml, hash: 'sha256:c36047f6f7fff053914ba3e5c1ea173250427713b7eca1fe94222a50daed91ed'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el017_000.markers.yaml, hash: 'sha256:a03ab0af9194fadaebf76b0cf10a584636b6f181b144deb9618e56eb2032f328'}
+  - {seq: 0, role: markers, filename: assets/KR3el017_000.markers.yaml, hash: 'sha256:8dcdaefcff2d014357e34b6fa83481a934c119102a46265a5ab6d48784a6eb9a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -81,4 +81,7 @@ table_of_contents:
   label: 附錄驗方四則
   type: section
   level: 1
-hash: sha256:656730be70ac31217c7f0a7580e2e77a5f694032f54567513608673bd49a68b8
+hash: sha256:fe33d226afab3e7686864d973e73846833e7582e2b82e4c86c43bf9c9165b20c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

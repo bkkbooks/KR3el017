@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3el017_000-jc.yaml, hash: 'sha256:a7836bd49ae6744fa297503edbc22582fc8ee7289580e65a042c3f169310ff6a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el017_000-jc.markers.yaml, hash: 'sha256:2a8dbc65676d05659f0636809c24520759ef6c91e4fe2e48231dbc27d9faf899'}
+  - {seq: 0, role: markers, filename: assets/KR3el017_000-jc.markers.yaml, hash: 'sha256:ee4ca2274751ff2637e21c9203b0a2684206b914e1084fa6e7d64370f450f54c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -81,4 +81,4 @@ table_of_contents:
   label: 附錄驗方四則
   type: section
   level: 1
-hash: sha256:528757a18a0d540af30e0bc3dca9f36cab8b14ec3783e1ce0ba4c99f58b48022
+hash: sha256:336325fe1e75599d026f149746e22c0b8df5419272e5c34aaf4a5c521c26dadb
